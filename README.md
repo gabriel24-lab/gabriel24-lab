@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [National learning service](https://www.sena.edu.co/es-co/Paginas/default.aspx) in [Valledupar]
+- :school: I am a `Developer` at [National learning service](https://www.sena.edu.co/es-co/Paginas/default.aspx) in [Valledupar]
 - :trophy: `Working with a technician and developing my technologist degree in the area of ​​software development`
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :email: Feel free to **reach me out** [gabrielmejiasilva5@gmail.com]
